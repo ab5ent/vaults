@@ -2,7 +2,7 @@
 
 [SOURCE](https://youtu.be/e94KggaEAr4?list=PLwyUzJb_FNeQrIxCEjj5AMPwawsw5beAy)
 
-Character Controller: Component(s) that provides ==movement to our character== + ==interact with colliders== (floor, stair, environment,...)
+Character Controller: Component(s) that provides **movement to our character** + **interact with colliders** (floor, stair, environment,...)
 
 ## [CharacterController](https://docs.unity3d.com/ScriptReference/CharacterController.html)
 
@@ -38,14 +38,15 @@ Character Controller: Component(s) that provides ==movement to our character== +
 - Auto slide down slope but not stop in place with right amount of drag. Doesn't handle steps the same way as the built-in character controller
 - Must check touching ground
 
-| BUILT-IN            | DYNAMIC                 | KINEMATIC  | CUSTOM ==REQUIREMENTS== |
+| BUILT-IN            | DYNAMIC                 | KINEMATIC \| CUSTOM _REQUIREMENTS_ |
 | ------------------- | ----------------------- | ------------------------------------ |
-| STAIR HANDLING      | BUILD IN GRAVITY        | STAIR HANDLING                       |
-| SLOPE TRAVERSAL     | MOMENTUM-BASED MOVEMENT | BUILD IN GRAVITY                     |
-| SNAPPY MOVEMENT     | PHYSICS INTERACTION     | SLOPE TRAVERSAL                      |
-| GROUND DETECTION    | COLLISION DETECTION     | MOMENTUM-BASED MOVEMENT              |
-| COLLISION DETECTION |                         | SNAPPY MOVEMENT                      |
-|                     |                         | GROUND DETECTION                     |
-|                     |                         | COLLISION DETECTION                  |
-|                     |                         | PHYSICS INTERACTION                  |
-**_CUSTOM CHARACTER CONTROLLER IS THE MOST COMPLEX BUT IT'S ALSO THE MOST FLEXIBLE**_
+| STAIR HANDLING      |                         | STAIR HANDLING                       |
+| SLOPE TRAVERSAL     |                         | SLOPE TRAVERSAL                      |
+| SNAPPY MOVEMENT     |                         | SNAPPY MOVEMENT                      |
+| GROUND DETECTION    |                         | GROUND DETECTION                     |
+| COLLISION DETECTION | COLLISION DETECTION     | COLLISION DETECTION                  |
+|                     | BUILD IN GRAVITY        | GROUND DETECTION                     |
+|                     | MOMENTUM-BASED MOVEMENT | MOMENTUM-BASED MOVEMENT              |
+|                     | PHYSICS INTERACTION     | PHYSICS INTERACTION                  |
+
+_CUSTOM CHARACTER CONTROLLER IS THE MOST COMPLEX BUT IT'S ALSO THE MOST FLEXIBLE_
