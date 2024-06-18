@@ -21,7 +21,6 @@
 
 ### Vector length (magnitude)
 
-
 $$
 Length (a, b)  = Magnitude(a, b)= \sqrt{(a^2 + b^2)}
 $$
@@ -38,9 +37,7 @@ $$
 - Represent direction
 
 $$
-
 Direction(\overrightarrow{a}) = Normalize(\overrightarrow{a}) = \overrightarrow{a}  / ||a||
-
 $$
 
 ## Part 2
