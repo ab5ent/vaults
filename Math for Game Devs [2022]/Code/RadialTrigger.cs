@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class BoundaryTrigger : MonoBehaviour
+public class RadialTrigger : MonoBehaviour
 {
     private float nextCheckTime = 0;
 

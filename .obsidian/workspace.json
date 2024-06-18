@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "7addd19228a679d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "46cf44021546c17a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f44b11ce7affafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math for Game Devs [2022]/Math for Game Devs [2022].md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86239494a2d3bdca",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc39640437311bd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25165686fc97545f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8eeff22bb4691d0d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f46878aae30b11d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca724f57fcbc3b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4101b8114e9799b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7ba203f8f481b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math for Game Devs [2022]/Math for Game Devs [2022].md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd05aae139856fd4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math for Game Devs [2022]/Math for Game Devs [2022].md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "422045a7c0b62696",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "521b6068970c44b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math for Game Devs [2022]/Math for Game Devs [2022].md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "25165686fc97545f",
+  "lastOpenFiles": [
+    "Math for Game Devs [2022]/Code/RadialTrigger.cs",
+    "Math for Game Devs [2022]/Code/BouncingLaser.cs",
+    "Math for Game Devs [2022]/Code/BouncingLaser.txt",
+    "Math for Game Devs [2022]/Code/New Text Document.txt",
+    "Untitled.canvas",
+    "Math for Game Devs [2022]/Math for Game Devs [2022].md"
+  ]
+}
