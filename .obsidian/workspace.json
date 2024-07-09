@@ -11,15 +11,34 @@
             "id": "6f44b11ce7affafd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Math for Game Devs [2022]/Math for Game Devs [2022].md",
-                "mode": "source",
-                "source": false
+                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 3.png"
+              }
+            }
+          },
+          {
+            "id": "d46773f0db33a7f4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png"
+              }
+            }
+          },
+          {
+            "id": "372a075215d276e5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 431.5
   },
   "right": {
     "id": "ca724f57fcbc3b6f",
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math for Game Devs [2022]/Math for Game Devs [2022].md",
+                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math for Game Devs [2022]/Math for Game Devs [2022].md",
+                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math for Game Devs [2022]/Math for Game Devs [2022].md"
+                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png"
               }
             }
           }
@@ -146,10 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f44b11ce7affafd",
+  "active": "25165686fc97545f",
   "lastOpenFiles": [
-    "Math for Game Devs [2022]/Images/Scalar Projection.png",
-    "Math for Game Devs [2022]/Math for Game Devs [2022].md",
+    "Math for Game Devs [2022]/Documents/Part 1.md",
+    "Math for Game Devs [2022]/Documents/Untitled.md",
+    "Math for Game Devs [2022]/Documents/Untitled",
+    "Math for Game Devs [2022]/Documents",
+    "Math for Game Devs [2022]/Images/Part 1/Exc 3.png",
+    "Math for Game Devs [2022]/Images/Part 1/Exc 2.png",
+    "Math for Game Devs [2022]/Images/Part 1/Exc 1.png",
+    "Math for Game Devs [2022]/Images/Part 1/Vector Projection.png",
+    "Math for Game Devs [2022]/Images/Part 1/Scalar Projection With 2 normalized vector.png",
+    "Math for Game Devs [2022]/Images/Part 1/Scalar Projection.png",
+    "Math for Game Devs [2022]/Images/Part 1",
+    "Pasted image 20240709235609.png",
     "README.md",
     "Math for Game Devs [2022]/Images",
     "Math for Game Devs [2022]/Code/RadialTrigger.cs",

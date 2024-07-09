@@ -1,5 +1,3 @@
-## Part 1
-
 ### Number line, Vector, fundamental
 
 	Magnitude(a) = Abs(a) = |a| >= 0
@@ -87,9 +85,36 @@ $$
  - Representing: How far along a is b
  - Project b on infinity line of direction a, return signed distance of b along a
  - The relationship between 2 vector
- - Object is _in front of_ or _behind_ other object
+ - Object is how far _in front of_ or how far _behind_ other object and 
  ![[Scalar Projection.png]]Scalar Projection
+- If both vector is normalized => Dot Product represents how similar these 2 vectors are. Can Get Angle between two vector
 
-## Part 2
+$$
 
-### 
+acos(\overrightarrow{a} \; \textbullet \; \overrightarrow{b}) = angle
+
+$$
+
+	- Same direction value = 1
+	- Opposite direction value = -1
+![[Scalar Projection With 2 normalized vector.png]]
+
+### 2. Vector Projection
+
+$$
+
+\overrightarrow{a} \; (\overrightarrow{a} \; \textbullet \; \overrightarrow{b})     \quad \textrm{a is normalized vector}
+
+$$
+- Result is a vector
+- The point that b project on a
+
+![[Vector Projection.png]]
+
+- Use case: flat something on a line
+
+### Exercise
+
+![[Exc 1.png]]
+![[Exc 2.png]]
+![[Exc 3.png]]
