@@ -21,24 +21,74 @@
 
 ### Vector length (magnitude)
 
+
 $$
-Length (a, b)  = Magnitude(a, b)= \sqrt{(a^2 + b^2)}
+Length (\overrightarrow{a})  = Magnitude(\overrightarrow{a})= \sqrt{(x^2 + y^2)} \quad \overrightarrow{a}(x,y)
 $$
 
 $$
-Distance(a, b) = ||a, b|| = \sqrt{(a^2 + y^2)}
+Distance(\overrightarrow{a}, \overrightarrow{b}) = ||a, b||= |b-a|=  \sqrt{(b.x - a.x)^2 + (b.y - a.y)^2}
 $$
 
 ### Vector Normalization
 
 - Circle Ox (-1, 1), Oy (-1, 1)
-- Magnitude = 1
 - Normalize Vector = Unit Vector
 - Represent direction
+ 
+$$
+
+Direction(\overrightarrow{a}) = Normalize(\overrightarrow{a}) = \overrightarrow{a}  \; / \; Magnitude(\overrightarrow{a})
 
 $$
-Direction(\overrightarrow{a}) = Normalize(\overrightarrow{a}) = \overrightarrow{a}  / ||a||
+
 $$
+
+Length (Normalize(\overrightarrow{a})) =1
+
+$$
+### Vector Multiplication
+
+$$
+
+\overrightarrow{a} * s = \overrightarrow{b}(a.x * s, a.y * s)
+
+$$
+
+$$
+
+\overrightarrow{a} \; \textbullet \; \overrightarrow{b} = ???
+
+$$
+
+- Few different ways of multiply vector: __Cross Product__ , __Dot Product__
+
+### Dot product
+
+- Use in many different cases
+- Depending on what kind of vectors use with => difference information about those vectors
+- Also known as __Scalar Product__, __Symmetric Product__, __Interior Product__
+- Result is a number
+
+$$
+
+\overrightarrow{a} \; \textbullet \; \overrightarrow{b}  = a.x \;* \;b.x \;+ \; a.y \;* \;b.y
+
+$$
+#### 1. Scalar Projection
+
+$$
+
+\overrightarrow{a} \; \textbullet \; \overrightarrow{b}     \quad \textrm{a is normalized vector}
+
+$$
+ - One of 2 vector is normalized
+ - Return single number
+ - Representing: How far along a is b
+ - Project b on infinity line of direction a, return signed distance of b along a
+ - The relationship between 2 vector
+ - Object is _in front of_ or _behind_ other object
+ ![[Scalar Projection.png]]Scalar Projection
 
 ## Part 2
 

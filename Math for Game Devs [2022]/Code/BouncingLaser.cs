@@ -5,7 +5,9 @@ namespace MathForGameDevs.Assignments
 {
     public class AssignmentBounchingLaser : MonoBehaviour
     {
-        public List<Transform> environmentVertexes;
+        public List<Transform> vertexes;
+
+
 
         private void OnDrawGizmos()
         {
