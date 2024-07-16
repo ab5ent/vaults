@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "46cf44021546c17a",
+        "id": "af09d026bd615ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "6f44b11ce7affafd",
+            "id": "bc27521570061bf5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 3.png"
-              }
-            }
-          },
-          {
-            "id": "d46773f0db33a7f4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png"
-              }
-            }
-          },
-          {
-            "id": "372a075215d276e5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png"
+                "file": "CS50x 2024/0 Scratch.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png",
+                "file": "CS50x 2024/0 Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png",
+                "file": "CS50x 2024/0 Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math for Game Devs [2022]/Images/Part 1/Exc 1.png"
+                "file": "CS50x 2024/0 Scratch.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,9 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25165686fc97545f",
+  "active": "bc27521570061bf5",
   "lastOpenFiles": [
+    "CS50x 2024/-- Info.md",
+    "CS50x 2024/0 Scratch.md",
     "Math for Game Devs [2022]/Documents/Part 1.md",
+    "CS50x 2024",
     "Math for Game Devs [2022]/Documents/Untitled.md",
     "Math for Game Devs [2022]/Documents/Untitled",
     "Math for Game Devs [2022]/Documents",

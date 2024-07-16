@@ -99,7 +99,7 @@ $$
 	- Opposite direction value = -1
 ![[Scalar Projection With 2 normalized vector.png]]
 
-### 2. Vector Projection
+#### 2. Vector Projection
 
 $$
 
